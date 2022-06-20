@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T12:23:44.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="mSNhoXUMOqQZjwMJrVfD" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T12:31:08.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_erg_Ff_kR4AVoJaMPcH" version="17.4.6" type="github">
   <diagram id="bYdH0A7eYf3jt_EvrW45" name="Page-1">
     <mxGraphModel dx="1071" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="30" y="110" width="200" height="155" as="geometry" />
         </mxCell>
         <mxCell id="xnQV9a3Z6vqpm0pV5S3U-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00005E;strokeWidth=6;" parent="1" vertex="1">
-          <mxGeometry x="340" y="105" width="370" height="160" as="geometry" />
+          <mxGeometry x="300" y="105" width="400" height="275" as="geometry" />
         </mxCell>
         <mxCell id="DYIPkd5MB8kChP2E2KvI-2" value="Data 수집" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="100" height="30" as="geometry" />
@@ -18,6 +18,24 @@
         </mxCell>
         <mxCell id="DYIPkd5MB8kChP2E2KvI-5" value="Data 정제" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="475" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DYIPkd5MB8kChP2E2KvI-7" value="MIDI" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;strokeColor=#00005E;strokeWidth=5;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DYIPkd5MB8kChP2E2KvI-9" value="Style Tagging" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;strokeColor=#00005E;strokeWidth=5;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DYIPkd5MB8kChP2E2KvI-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DYIPkd5MB8kChP2E2KvI-7" target="DYIPkd5MB8kChP2E2KvI-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="450" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DYIPkd5MB8kChP2E2KvI-13" value="&lt;ul style=&quot;font-size: 17px&quot;&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;Alignment 작성&lt;/li&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;g2p Check&lt;/li&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;MIDI 추출&lt;/li&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;검수&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="460" y="140" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DYIPkd5MB8kChP2E2KvI-14" value="&lt;ul style=&quot;font-size: 17px&quot;&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;Style Tagging&lt;/li&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;검수&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="460" y="275" width="190" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
