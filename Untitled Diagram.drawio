@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T12:38:43.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Uz-EtzauDLS89UFNoNdD" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T12:38:59.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3B9DSK9NDpLMsUUoM9LE" version="17.4.6" type="github">
   <diagram id="bYdH0A7eYf3jt_EvrW45" name="Page-1">
     <mxGraphModel dx="1898" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="DYIPkd5MB8kChP2E2KvI-20" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;strokeWidth=3;strokeColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="-90" y="120" width="270" height="297.5" as="geometry" />
         </mxCell>
-        <mxCell id="xnQV9a3Z6vqpm0pV5S3U-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000066;strokeWidth=5;gradientColor=none;shadow=0;glass=0;sketch=1;perimeterSpacing=0;" parent="1" vertex="1">
+        <mxCell id="xnQV9a3Z6vqpm0pV5S3U-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=5;gradientColor=none;shadow=0;glass=0;sketch=1;perimeterSpacing=0;" parent="1" vertex="1">
           <mxGeometry x="-60" y="227.5" width="200" height="155" as="geometry" />
         </mxCell>
         <mxCell id="DYIPkd5MB8kChP2E2KvI-2" value="Data 수집" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;fontFamily=Comic Sans MS;" vertex="1" parent="1">
@@ -22,10 +22,10 @@
         <mxCell id="DYIPkd5MB8kChP2E2KvI-5" value="Data 정제" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="404" y="130" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DYIPkd5MB8kChP2E2KvI-7" value="MIDI" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;strokeColor=#00005E;strokeWidth=3;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="DYIPkd5MB8kChP2E2KvI-7" value="MIDI" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="284" y="200" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DYIPkd5MB8kChP2E2KvI-9" value="Style Tagging" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;strokeColor=#00005E;strokeWidth=3;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="DYIPkd5MB8kChP2E2KvI-9" value="Style Tagging" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;strokeColor=#000000;strokeWidth=3;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="289" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DYIPkd5MB8kChP2E2KvI-13" value="&lt;ul style=&quot;font-size: 17px&quot;&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;Alignment 작성&lt;/li&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;g2p Check&lt;/li&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;MIDI 추출&lt;/li&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;검수&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;" vertex="1" parent="1">
