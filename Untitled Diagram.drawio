@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T12:36:35.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="9Eqto8cOZWRSnEz_MWZt" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T12:37:04.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="s-Ys_1qsJcMTcR7OaMMg" version="17.4.6" type="github">
   <diagram id="bYdH0A7eYf3jt_EvrW45" name="Page-1">
     <mxGraphModel dx="1898" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DYIPkd5MB8kChP2E2KvI-21" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="350" y="100" width="410" height="300" as="geometry" />
+          <mxGeometry x="260" y="120" width="410" height="300" as="geometry" />
         </mxCell>
         <mxCell id="DYIPkd5MB8kChP2E2KvI-20" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry y="100" width="270" height="297.5" as="geometry" />
+          <mxGeometry x="-90" y="120" width="270" height="297.5" as="geometry" />
         </mxCell>
         <mxCell id="xnQV9a3Z6vqpm0pV5S3U-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000066;strokeWidth=5;gradientColor=none;shadow=0;glass=0;sketch=1;perimeterSpacing=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="207.5" width="200" height="155" as="geometry" />
+          <mxGeometry x="-60" y="227.5" width="200" height="155" as="geometry" />
         </mxCell>
         <mxCell id="DYIPkd5MB8kChP2E2KvI-2" value="Data 수집" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="80" y="110" width="100" height="30" as="geometry" />
+          <mxGeometry x="-10" y="130" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DYIPkd5MB8kChP2E2KvI-3" value="&lt;ul style=&quot;font-size: 17px;&quot;&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;Tune&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;Noise&amp;nbsp; 제거&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;Wav file Split&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="45" y="220" width="170" height="130" as="geometry" />
+          <mxGeometry x="-45" y="240" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DYIPkd5MB8kChP2E2KvI-5" value="Data 정제" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="494" y="110" width="100" height="30" as="geometry" />
+          <mxGeometry x="404" y="130" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DYIPkd5MB8kChP2E2KvI-7" value="MIDI" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;strokeColor=#00005E;strokeWidth=3;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="374" y="180" width="130" height="70" as="geometry" />
+          <mxGeometry x="284" y="200" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DYIPkd5MB8kChP2E2KvI-9" value="Style Tagging" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;strokeColor=#00005E;strokeWidth=3;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="379" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="289" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DYIPkd5MB8kChP2E2KvI-13" value="&lt;ul style=&quot;font-size: 17px&quot;&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;Alignment 작성&lt;/li&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;g2p Check&lt;/li&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;MIDI 추출&lt;/li&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;검수&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="514" y="180" width="230" height="80" as="geometry" />
+          <mxGeometry x="424" y="200" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DYIPkd5MB8kChP2E2KvI-14" value="&lt;ul style=&quot;font-size: 17px&quot;&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;Style Tagging&lt;/li&gt;&lt;li style=&quot;font-size: 17px&quot;&gt;검수&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="514" y="325" width="190" height="50" as="geometry" />
+          <mxGeometry x="424" y="345" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DYIPkd5MB8kChP2E2KvI-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;sketch=1;fontFamily=Comic Sans MS;fontSize=17;startSize=2;endSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="259" as="sourcePoint" />
-            <mxPoint x="340" y="259" as="targetPoint" />
+            <mxPoint x="190" y="279" as="sourcePoint" />
+            <mxPoint x="250" y="279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DYIPkd5MB8kChP2E2KvI-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;sketch=1;fontFamily=Comic Sans MS;fontSize=17;startSize=2;endSize=7.67;width=7;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="438.5" y="260" as="sourcePoint" />
-            <mxPoint x="438.5" y="310" as="targetPoint" />
+            <mxPoint x="348.5" y="280" as="sourcePoint" />
+            <mxPoint x="348.5" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
