@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T04:35:34.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DD0_tYRLYdOhW2PvMk2W" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T04:37:39.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="f9ay-djlpm-afBPq8Klj" version="20.0.1" type="github">
   <diagram id="bYdH0A7eYf3jt_EvrW45" name="Page-1">
     <mxGraphModel dx="1737" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,11 +128,17 @@
         <mxCell id="vOhrdkk1_eVYnLyEw9EG-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Raw Data&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-417" y="650" width="147" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vOhrdkk1_eVYnLyEw9EG-7" value="dataOverview" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-742" y="720" width="110" height="20" as="geometry" />
+        <mxCell id="vOhrdkk1_eVYnLyEw9EG-7" value="dataOverview (&lt;font style=&quot;font-size: 8px;&quot;&gt;구&lt;/font&gt; DataChecklist)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-737" y="700" width="192" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vOhrdkk1_eVYnLyEw9EG-9" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontSize=9;strokeColor=#A9C4EB;strokeWidth=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-400" y="690" width="292" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vOhrdkk1_eVYnLyEw9EG-10" value="dataList (&lt;font style=&quot;font-size: 6px;&quot;&gt;구&amp;nbsp;&lt;/font&gt;metadata)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-398.5" y="700" width="148.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vOhrdkk1_eVYnLyEw9EG-11" value="dataChecklist" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-742" y="770" width="192" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
